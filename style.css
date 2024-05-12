@@ -1,0 +1,61 @@
+.background-image1 {
+  background-image: url("https://i.natgeofe.com/k/a2a738a9-e019-4911-98e6-17f31c45ac88/milky-way-2_2x1.jpg");
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+}
+
+.background-image2 {
+  background-image: url("https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+}
+
+.background-image3 {
+  background-image: url("https://images.unsplash.com/photo-1518066000714-58c45f1a2c0a?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+}
+
+.KSpacey {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Kevin_Spacey%2C_May_2013_%28cropped%29.jpg/440px-Kevin_Spacey%2C_May_2013_%28cropped%29.jpg");
+  background-size: cover;
+  height: fit-content;
+  width: 50vw;
+}
+
+selector {
+  property: value;
+}
+.header {
+  color: white;
+  position: fixed;
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+  padding: 50px;
+}
+
+section {
+  color: white;
+  display: flex;
+  align-items: center;
+  padding: 50px;
+}
+
+nav {
+  color: #fff;
+  gap: 2rem;
+  align-items: center;
+  display: flex;
+}
+
+a {
+  color: #fff;
+}
+
+h4 {
+  border: white;
+}
